@@ -18,7 +18,7 @@ Static GitHub Pages site for publishing equity research reports and financial an
 This site is designed for a GitHub Pages user site at:
 
 ```text
-https://AadiZer01.github.io/aadithsantosh.github.io/
+https://www.aadithsantosh.com/
 ```
 
 If this folder is connected to the `AadiZer01/aadithsantosh.github.io` repository, commit and push these files to the default branch. GitHub Pages will serve `index.html` from the repository root.

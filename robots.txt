@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://AadiZer01.github.io/aadithsantosh.github.io/sitemap.xml
+Sitemap: https://www.aadithsantosh.com/sitemap.xml
