@@ -299,6 +299,11 @@ dd {
   color: var(--caution);
 }
 
+.rating-pdf {
+  background: #e7eef9;
+  color: var(--ink);
+}
+
 .text-link {
   display: inline-flex;
   color: var(--ink);

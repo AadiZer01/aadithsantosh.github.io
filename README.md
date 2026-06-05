@@ -8,6 +8,7 @@ Static GitHub Pages site for publishing equity research reports and financial an
 - `about/index.html` - analyst profile and research philosophy
 - `research/index.html` - research archive
 - `research/ihcl-2026.html` - first report page template
+- `research/eternal-2026.html` - Eternal valuation report landing page
 - `assets/css/style.css` - global styling
 - `assets/images/` - images and charts
 - `assets/pdf/` - downloadable report PDFs
