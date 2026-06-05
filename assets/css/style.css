@@ -963,3 +963,26 @@ code {
     border-bottom: 0;
   }
 }
+
+.financial-table th,
+.financial-table td {
+  text-align: left !important;
+  white-space: normal !important;
+}
+
+/* Rating colour system */
+.rating-buy,
+.rating-accumulate {
+  background: #1f7a4d; /* green */
+  color: #ffffff;
+}
+
+.rating-hold {
+  background: #F2C94C; /* premium yellow */
+  color: #021a3e; /* ink */
+}
+
+.rating-sell {
+  background: #b42318; /* red */
+  color: #ffffff;
+}
