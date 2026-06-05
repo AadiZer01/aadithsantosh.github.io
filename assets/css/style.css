@@ -299,6 +299,11 @@ dd {
   color: var(--caution);
 }
 
+.rating-accumulate {
+  background: #dff3e8;
+  color: var(--positive);
+}
+
 .rating-pdf {
   background: #e7eef9;
   color: var(--ink);
